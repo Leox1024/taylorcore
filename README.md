@@ -16,11 +16,13 @@ mkdir build
 cd build
 cmake ..
 make
+```
 
 ## Run
 
 ```bash
 ./cpu_predictor
+```
 
 ## Project Structure
 
@@ -33,3 +35,4 @@ make
 ├── scripts/      # Utility scripts
 ├── data/         # Logs and output files
 └── CMakeLists.txt
+```
