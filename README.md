@@ -1,4 +1,4 @@
-# Taylorcore
+# taylorcore
 
 A cross-platform C tool to monitor CPU usage in real time and forecast short-term behavior using Taylor series expansion.
 
