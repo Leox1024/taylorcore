@@ -11,5 +11,6 @@ struct CPUStats {
     int coreCount;            // Number of logical CPU cores
     double frequencyMHz;      // Estimated average CPU frequency (MHz)
 };
+```
 
 The CPUStats struct is defined in include/cpu_stats.hpp and must be fully populated with the following fields (use -1.0 where not available):
